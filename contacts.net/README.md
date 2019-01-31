@@ -2,8 +2,8 @@
 npm install <br />
 dotnet restore   or
 
-clean sln
-restore dotnet nuget pakages
+clean sln<br />
+restore dotnet nuget pakages<br />
 build
 
 ### Update Database
