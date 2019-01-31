@@ -1,6 +1,10 @@
 ### install npm packages and restore dotnet nuget pakages in command promt:
 npm install <br />
-dotnet restore  
+dotnet restore   or
+
+clean sln
+restore dotnet nuget pakages
+build
 
 ### Update Database
 dotnet ef database update
